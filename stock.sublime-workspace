@@ -1,0 +1,1041 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Fac",
+				"Faction1"
+			],
+			[
+				"compa",
+				"CompanyInfo"
+			],
+			[
+				"admit",
+				"AdmitCompany"
+			],
+			[
+				"company",
+				"companyList"
+			],
+			[
+				"compan",
+				"companyList"
+			],
+			[
+				"target",
+				"targetQue"
+			],
+			[
+				"sell",
+				"sellingQue"
+			],
+			[
+				"resour",
+				"resourceTypes"
+			],
+			[
+				"resou",
+				"resourceTtpes"
+			],
+			[
+				"charac",
+				"characterGrow"
+			],
+			[
+				"MMIM",
+				"MMIMySQL"
+			],
+			[
+				"chan",
+				"changedIds"
+			],
+			[
+				"start",
+				"startTime"
+			],
+			[
+				"multi",
+				"multiprocessing"
+			],
+			[
+				"calendar",
+				"calendarId"
+			],
+			[
+				"reqT",
+				"req_time"
+			],
+			[
+				"get",
+				"GetMessage"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"send",
+				"SendMessage"
+			],
+			[
+				"admin",
+				"adminEmail"
+			],
+			[
+				"g",
+				"gmail"
+			],
+			[
+				"cal",
+				"calendarId"
+			],
+			[
+				"ev",
+				"eventList"
+			],
+			[
+				"auth",
+				"authUrl"
+			],
+			[
+				"session_",
+				"session_unset"
+			],
+			[
+				"last_",
+				"last_resource_update"
+			],
+			[
+				"check",
+				"check_effect_condition"
+			],
+			[
+				"mysql_row",
+				"mysql_num_rows"
+			],
+			[
+				"print_",
+				"print_building_infos"
+			],
+			[
+				"store",
+				"store_metal"
+			],
+			[
+				"planet",
+				"planet"
+			],
+			[
+				"resource",
+				"last_resource_update"
+			],
+			[
+				"_game",
+				"_gameDataPid"
+			],
+			[
+				"mysql_fetch",
+				"mysql_fetch_row"
+			],
+			[
+				"mysql_fec",
+				"mysql_fetch_assoc"
+			],
+			[
+				"deving",
+				"developing"
+			],
+			[
+				"_gae",
+				"_gameDataPid"
+			],
+			[
+				"build",
+				"buildData"
+			],
+			[
+				"plan",
+				"planetNum"
+			],
+			[
+				"buil",
+				"buildData"
+			],
+			[
+				"_Get",
+				"_GETS"
+			],
+			[
+				"modal",
+				"modalInit"
+			],
+			[
+				"tes",
+				"tesTranslate"
+			],
+			[
+				"act",
+				"activeClass"
+			],
+			[
+				"Log",
+				"LogNavigation"
+			],
+			[
+				"progress",
+				"progressNumber"
+			],
+			[
+				"prog",
+				"progressCompleteness"
+			],
+			[
+				"progre",
+				"progressCompleteness"
+			],
+			[
+				"pro",
+				"progressName"
+			],
+			[
+				"progres",
+				"progressName"
+			],
+			[
+				"text",
+				"textdata"
+			],
+			[
+				"coun",
+				"countries"
+			],
+			[
+				"ret",
+				"retData"
+			],
+			[
+				"count",
+				"country1"
+			],
+			[
+				"__get",
+				"__getattr__"
+			],
+			[
+				"di",
+				"__dict__"
+			],
+			[
+				"module",
+				"moduleId"
+			],
+			[
+				"import",
+				"importlib"
+			],
+			[
+				"test",
+				"testss"
+			],
+			[
+				"pr",
+				"temp_prompt"
+			],
+			[
+				"E",
+				"Engine"
+			],
+			[
+				"_data",
+				"_database"
+			],
+			[
+				"nex",
+				"nextFuncs"
+			],
+			[
+				"spl",
+				"split_func"
+			],
+			[
+				"split",
+				"split_key"
+			],
+			[
+				"parse",
+				"parseFlag"
+			],
+			[
+				"room",
+				"roomNumber"
+			],
+			[
+				"player",
+				"playerdata"
+			],
+			[
+				"flag",
+				"_flag"
+			],
+			[
+				"func",
+				"pFunc"
+			],
+			[
+				"print",
+				"printu"
+			],
+			[
+				"pl",
+				"playerdata"
+			],
+			[
+				"flag_map",
+				"flag_map_search_8"
+			],
+			[
+				"flag_this",
+				"flag_map_thisroom"
+			],
+			[
+				"stri",
+				"stringPrint"
+			],
+			[
+				"tresh",
+				"treshTiles"
+			],
+			[
+				"this",
+				"thisStepPlayerNum"
+			],
+			[
+				"retT",
+				"retType"
+			],
+			[
+				"play",
+				"playerThreshTypesNum"
+			],
+			[
+				"yard",
+				"yardNum"
+			],
+			[
+				"kertz",
+				"kertzsTileNum"
+			],
+			[
+				"shyuntz",
+				"shyuntzHand"
+			],
+			[
+				"shy",
+				"shyuntzs"
+			],
+			[
+				"shyunt",
+				"shyuntzHand"
+			],
+			[
+				"sh",
+				"shyuntzHand"
+			],
+			[
+				"temp",
+				"tempHand"
+			],
+			[
+				"thisT",
+				"thisTimeHands"
+			],
+			[
+				"checkSh",
+				"checkShyuntz2"
+			],
+			[
+				"inut",
+				"inputForTest"
+			],
+			[
+				"spec",
+				"pSpec"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"return",
+				"_returnKertz"
+			],
+			[
+				"elem",
+				"elements"
+			],
+			[
+				"ele",
+				"elements"
+			],
+			[
+				"Mah",
+				"MahjongTile"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "누구를 위하여 종가를 올리는가",
+			"settings":
+			{
+				"buffer_size": 692,
+				"line_ending": "Unix",
+				"name": "누구를 위하여 종가를 올리는가"
+			}
+		},
+		{
+			"file": "faction.py",
+			"settings":
+			{
+				"buffer_size": 4673,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "map.py",
+			"settings":
+			{
+				"buffer_size": 495,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 2988,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "testMap.json",
+			"settings":
+			{
+				"buffer_size": 2855,
+				"line_ending": "Unix",
+				"name": "{"
+			}
+		}
+	],
+	"build_system": "Packages/User/python2.7.sublime-build",
+	"command_palette":
+	{
+		"height": 247.0,
+		"selected_items":
+		[
+			[
+				"pcin",
+				"Package Control: Install Package"
+			],
+			[
+				"pc:di",
+				"Package Control: Disable Package"
+			],
+			[
+				"pc:d",
+				"Package Control: Disable Package"
+			],
+			[
+				"paconinst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pcodi",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"package instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/minuk-hwang/Documents/Pythons/stock/resource.py",
+		"/Users/minuk-hwang/Documents/Pythons/MMIM/serverPy/Account.py",
+		"/Users/minuk-hwang/Documents/Pythons/MMIM/serverPy/serviceAccount.py",
+		"/Users/minuk-hwang/Documents/html/MMIM/webClient/sql.php",
+		"/Users/minuk-hwang/Documents/Pythons/MMIM/serverPy/event_sample.json",
+		"/Users/minuk-hwang/Documents/Pythons/MMIM/serverPy/uploadSample.json",
+		"/Users/minuk-hwang/Documents/games/Messanger/Messanger/Resource/newTutorial.script",
+		"/Users/minuk-hwang/Documents/games/Messanger/Messanger/Resource/characters.script",
+		"/Users/minuk-hwang/Documents/games/Messanger/Messanger/Resource/ChattingRooms.json",
+		"/Users/minuk-hwang/Documents/html/ugame/serverside/SQL.php",
+		"/Users/minuk-hwang/Documents/Pythons/MMIM/serverPy/sftp-config.json",
+		"/Users/minuk-hwang/Documents/Pythons/MMIM/serverPy/quickStart.py",
+		"/Users/minuk-hwang/Documents/Pythons/MMIM/serverPy/Api_client_secret.json",
+		"/Users/minuk-hwang/Documents/SQL 10장",
+		"/Users/minuk-hwang/Documents/Pythons/MMIM/serverPy/build/bdist.macosx-10.9-intel/egg/googleapiclient/discovery.py",
+		"/Users/minuk-hwang/Documents/Pythons/test/mp_test.py",
+		"/Users/minuk-hwang/Documents/Pythons/MMIM/serverPy/gmail.storage",
+		"/Users/minuk-hwang/Documents/C/circleA/circleA/main.c",
+		"/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/multiprocessing/pool.py",
+		"/Users/minuk-hwang/Documents/html/MMIM/webClient/singin.php",
+		"/Users/minuk-hwang/Documents/Pythons/gtd/server/checker.py",
+		"/Users/minuk-hwang/Documents/Pythons/MMIM/serverPy/users.json",
+		"/Users/minuk-hwang/Documents/Pythons/MMIM/serverPy/service.py",
+		"/Users/minuk-hwang/Library/Application Support/Sublime Text 2/Packages/SFTP/SFTP.sublime-settings",
+		"/Users/minuk-hwang/Documents/Pythons/MMIM/serverPy/calendars.json",
+		"/Users/minuk-hwang/Documents/Pythons/MMIM/serverPy/calendar.db",
+		"/Users/minuk-hwang/Documents/Pythons/MMIM/serverPy/old_run.py",
+		"/Users/minuk-hwang/Documents/Pythons/gtd/gtd/Task.py",
+		"/Users/minuk-hwang/Documents/Pythons/MMIM/serverPy/build/bdist.macosx-10.9-intel/egg/googleapiclient/http.py",
+		"/Users/minuk-hwang/Documents/Pythons/MMIM/serverPy/serverAuth.py",
+		"/Users/minuk-hwang/Documents/사기의 종류.json",
+		"/Library/Python/2.7/site-packages/oauth2client/old_run.py",
+		"/Users/minuk-hwang/google-cloud-sdk/lib/oauth2client/client.py",
+		"/Users/minuk-hwang/Documents/Pythons/MMIM/serverPy/newOldRun.py",
+		"/Users/minuk-hwang/Downloads/python-gflags-2.0/README",
+		"/Library/Python/2.7/site-packages/oauth2client/tools.py",
+		"/Users/minuk-hwang/Documents/Pythons/MMIM/serverPy/client.json",
+		"/Library/Python/2.7/site-packages/oauth2client/util.py",
+		"/Users/minuk-hwang/Documents/html/MMIM/webApi/src/Google/Service/Calendar.php",
+		"/Users/minuk-hwang/Documents/html/MMIM/webClient/license.html",
+		"/Users/minuk-hwang/Documents/html/MMIM/sftp-config.json",
+		"/Users/minuk-hwang/Documents/html/MMIM/webClient/sftp-config.json",
+		"/Users/minuk-hwang/Documents/Pythons/MMIM/serverPy/client_secrets.py",
+		"/Users/minuk-hwang/Documents/Pythons/MMIM/serverPy/client_secrets.json",
+		"/Users/minuk-hwang/Documents/Pythons/MMIM/serverPy/getEvent.py",
+		"/Users/minuk-hwang/Downloads/MySQL-python-1.2.5 2/README.md",
+		"/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/google_api_python_client-1.3.1-py3.4.egg/googleapiclient/discovery.py",
+		"/Users/minuk-hwang/Documents/Pythons/DND/New Engines/engine_test.py",
+		"/Users/minuk-hwang/Documents/Pythons/MMIM/serverPy/test.py",
+		"/Users/minuk-hwang/Documents/Pythons/MMIM/serverApi/tox.ini",
+		"/Users/minuk-hwang/Documents/Pythons/MMIM/serverApi/samples/calendar_api/calendar_sample.py",
+		"/Users/minuk-hwang/Documents/Pythons/MMIM/serverApi/samples/calendar_api/client_secrets.json",
+		"/Users/minuk-hwang/google-cloud-sdk/install.sh",
+		"/Users/minuk-hwang/Library/Application Support/Sublime Text 2/Packages/User/python2.7.sublime-build",
+		"/Users/minuk-hwang/Library/Application Support/Sublime Text 2/Packages/Python/Python.sublime-build",
+		"/Users/minuk-hwang/Documents/Pythons/MMIM/serverApi/README.md",
+		"/Users/minuk-hwang/Documents/html/MMIM/webClient/cal.html",
+		"/Users/minuk-hwang/Documents/html/MMIM/cal.html",
+		"/Users/minuk-hwang/Documents/html/IdolMaster2/pyserver/googleConnect.py",
+		"/Users/minuk-hwang/Documents/html/IdolMaster2/test.php",
+		"/Users/minuk-hwang/Documents/html/IdolMaster2/calendar_test.php",
+		"/Users/minuk-hwang/Documents/html/IdolMaster2/src/Google/Service/Calendar.php",
+		"/Users/minuk-hwang/Documents/html/IdolMaster2/cal.html",
+		"/Users/minuk-hwang/Documents/html/IdolMaster2/sftp-config.json",
+		"/Users/minuk-hwang/Documents/html/IdolMaster2/examples/idtoken.php",
+		"/Users/minuk-hwang/Documents/html/IdolMaster2/examples/simple-query.php",
+		"/Users/minuk-hwang/Documents/html/idolmaster/api/config.php",
+		"/Users/minuk-hwang/Documents/html/idolmaster/examples/index.php",
+		"/Users/minuk-hwang/Documents/html/idolmaster/examples/user-example.php",
+		"/Users/minuk-hwang/Documents/html/idolmaster/src/Google/Service/Calendar.php",
+		"/Users/minuk-hwang/Documents/html/idolmaster/api_test.php",
+		"/Users/minuk-hwang/Documents/html/idolmaster/user-example.php",
+		"/Users/minuk-hwang/Documents/html/idolmaster/examples/simple-query.php",
+		"/Users/minuk-hwang/Documents/html/idolmaster/api/auth/Google_OAuth2.php",
+		"/Users/minuk-hwang/Documents/html/idolmaster/api/contrib/Google_CalendarService.php",
+		"/Users/minuk-hwang/Documents/html/idolmaster/api/Google_Client.php",
+		"/Users/minuk-hwang/Documents/html/idolmaster/examples/calendar/simple.php",
+		"/Users/minuk-hwang/Documents/html/PC/game.html",
+		"/Users/minuk-hwang/Documents/html/idolmaster/sftp-config.json",
+		"/Users/minuk-hwang/Documents/html/ugame/serverside/resource2.php",
+		"/Users/minuk-hwang/Documents/html/ugame/serverside/buildings.php",
+		"/Users/minuk-hwang/Documents/html/ugame/serverside/resource.php",
+		"/Users/minuk-hwang/Documents/html/ugame/html/script/buildings.js",
+		"/Users/minuk-hwang/Documents/html/ugame/ugame.sublime-project",
+		"/Users/minuk-hwang/Documents/html/ugame/sftp-config.json",
+		"/Users/minuk-hwang/Documents/html/ugame/html/admin_csv.html",
+		"/Users/minuk-hwang/Documents/html/ugame/serverside/admin_csv.php",
+		"/Users/minuk-hwang/Documents/html/ugame/serverside/research2.php",
+		"/Users/minuk-hwang/Documents/html/ugame/serverside/construct.php",
+		"/Users/minuk-hwang/Downloads/ogame-opensource-853/game/planet.php",
+		"/Users/minuk-hwang/Documents/html/ugame/serverside/research.php",
+		"/Users/minuk-hwang/Documents/html/ugame/serverside/com.php",
+		"/Users/minuk-hwang/Documents/html/ugame/html/building.html",
+		"/Users/minuk-hwang/Documents/html/ugame/html/script/resource.js",
+		"/Users/minuk-hwang/Documents/html/ugame/serverside/mail.php",
+		"/Users/minuk-hwang/Documents/html/ugame/serverside/login.php",
+		"/Users/minuk-hwang/Documents/html/ugame/html/login.html",
+		"/Users/minuk-hwang/Documents/html/ugame/html/script/login.js",
+		"/Users/minuk-hwang/Documents/html/ugame/html/script/com.js",
+		"/Users/minuk-hwang/Documents/html/ugame/html/main.html",
+		"/Users/minuk-hwang/Documents/html/ugame/html/resource.html",
+		"/Users/minuk-hwang/Documents/html/ugame/serverside/gamedata.php",
+		"/Users/minuk-hwang/Documents/html/ugame/html/register.html",
+		"/Users/minuk-hwang/Documents/html/ugame/html/script/register.js",
+		"/Users/minuk-hwang/Documents/html/ugame/html/research.html",
+		"/Volumes/MAC/video/Iron Man 3 2013 720p WEB-DL x264 AAC-JYK/subs/Iron Man 3 2013 720p WEB-DL x264 AAC-JYK.smi",
+		"/Users/minuk-hwang/Documents/html/ugame/ugame.sublime-workspace",
+		"/Users/minuk-hwang/Documents/html/ugame/serverside/bluerpints.json",
+		"/Users/minuk-hwang/Documents/html/ugame/html/css/bootstrap-modal.css",
+		"/Users/minuk-hwang/Documents/html/PC/pc.appcache",
+		"/Users/minuk-hwang/Documents/html/PC/sftp-config.json",
+		"/Users/minuk-hwang/Documents/html/PC/deTest.html",
+		"/Users/minuk-hwang/Downloads/simutrans/readme.txt",
+		"/Users/minuk-hwang/Downloads/simutrans/config/simuconf.tab",
+		"/Users/minuk-hwang/Downloads/simutrans/pak96.comic/config/simuconf.tab",
+		"/Users/minuk-hwang/Documents/html/PC/scripts/ge_log.js",
+		"/Users/minuk-hwang/Documents/subtitle/7 seals.smi",
+		"/Volumes/MAC/video/The.Seventh.Seal.1957.720p.BluRay.x264-ESiR/The.Seventh.Seal.1957.720p.BluRay.x264-ESiR2.smi",
+		"/Volumes/MAC/video/The.Seventh.Seal.1957.720p.BluRay.x264-ESiR/The.Seventh.Seal.1957.720p.BluRay.x264-ESiR.smi",
+		"/Volumes/MAC/video/The.Seventh.Seal.1957.720p.BluRay.x264-ESiR/The+Seventh+Seal+%281957%29+Criterion+Collection+BR.smi",
+		"/Users/minuk-hwang/Documents/html/PC/scripts/GamEngine.js",
+		"/Users/minuk-hwang/Documents/html/PC/scripts/events.js",
+		"/Users/minuk-hwang/Documents/html/PC/TODO",
+		"/Users/minuk-hwang/Documents/html/PC/scripts/country.js",
+		"/Users/minuk-hwang/Documents/html/PC/scripts/main.js",
+		"/Users/minuk-hwang/Documents/html/PC/scripts/alertify.js",
+		"/Users/minuk-hwang/Documents/html/PC/scripts/game_ui.js",
+		"/Users/minuk-hwang/Documents/html/PC/scripts/alertify.min.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"\"metal\"",
+			"identity",
+			"self.identity = []",
+			"untitled",
+			"])\n",
+			"sendEmails",
+			"checkTime",
+			"print",
+			"changedId",
+			"initCalendar",
+			"database",
+			"botEventCollector",
+			"initDB",
+			":",
+			"\"",
+			"urllib2",
+			"urllib",
+			"post",
+			"Create",
+			"createMe",
+			"end",
+			"run",
+			"self.chars",
+			"Account",
+			"self.bot",
+			"1092986027377-vblam8dn6300feqi5rielc26d81241oj@developer.gserviceaccount.com",
+			"events[e]",
+			"False",
+			"True",
+			"'",
+			"u'",
+			"'",
+			"u'",
+			"setWindow",
+			"print",
+			"auth_local_web",
+			"FLAGS.",
+			"FLAGS",
+			"gflags",
+			"oauth_callback",
+			"flow",
+			"OAuth2Credentials",
+			"GoogleCredentials",
+			"AssertionCredentials",
+			"SignedJwtAssertionCredentials",
+			"code",
+			"authorization",
+			"credentials",
+			"get_credentials",
+			"flow",
+			"code",
+			"scope",
+			"authorization",
+			"authorizatin",
+			"CLIENTSECRETS_LOCATION = './Api_client_secret.json'\n	REDIRECT_URI = 'urn:ietf:wg:oauth:2.0:oob'\n	SCOPES = ['https://mail.google.com']\n\n	credentials = {}",
+			"exchange_code",
+			"get_credentials",
+			"build_service",
+			"get_authorization_url",
+			"GetCredentialsException",
+			"NotImplementedError",
+			"setAssertionCredentials",
+			"acl",
+			"setAccessRole",
+			"setAcl",
+			"http",
+			"insert",
+			"calendar",
+			"kind",
+			"Google_Service_Calendar_Event",
+			"Google_Service_Calendar_Calendar",
+			"Google_Service_Calendar",
+			"Google_Service_Calendaㄱ",
+			"Google_Service_Calendar_Events_Resource",
+			"Google_Service_Calendar_CalendarList_Resource",
+			"listcalendarlist",
+			"events",
+			"event",
+			"setUseObjects",
+			"print_r",
+			"$_SESSION[\"resources\"][$i]",
+			"_get_part_info",
+			"get_resource",
+			"researchs",
+			"researches",
+			"set_building",
+			"time",
+			"$(\"#BuildingTable > tbody\")\n		.html(\"\")\n		.append(string);",
+			"update_resource",
+			"print_r",
+			"echo",
+			"print_r",
+			"print+r",
+			"json_encode",
+			"json_",
+			"JSON",
+			"json",
+			"get_planet_pid",
+			"update",
+			"planet_data",
+			"update_effect",
+			"update_sess",
+			"time",
+			"current",
+			"print_r",
+			"checkResource",
+			"\"\\\"\".$target",
+			"id_deveing",
+			"is_deveing",
+			"is_deving",
+			"\"developing\"",
+			"Communication.log",
+			"Communication.log(",
+			"Comm",
+			"_initSession",
+			"login",
+			"userdata",
+			"_getData",
+			"planet",
+			"frame",
+			"fps",
+			"image",
+			"printCiv",
+			"printCivData",
+			"\"log\"",
+			"log",
+			"console",
+			"window.localStorage"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"1",
+			"=>",
+			"\\\"",
+			"i",
+			"\"False\"",
+			"\"True\"",
+			"\"",
+			"",
+			"$val",
+			"is_deving",
+			"\"id_deveing\"",
+			"user_data",
+			"",
+			"datas.countries",
+			"GE",
+			"중",
+			"range",
+			"\\\"",
+			"_otherHand"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "누구를 위하여 종가를 올리는가",
+					"settings":
+					{
+						"buffer_size": 692,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								59,
+								59
+							]
+						],
+						"settings":
+						{
+							"auto_name": "누구를 위하여 종가를 올리는가",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "faction.py",
+					"settings":
+					{
+						"buffer_size": 4673,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								846,
+								846
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "map.py",
+					"settings":
+					{
+						"buffer_size": 495,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								363,
+								363
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "main.py",
+					"settings":
+					{
+						"buffer_size": 2988,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2176,
+								2176
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 776.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "testMap.json",
+					"settings":
+					{
+						"buffer_size": 2855,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								198,
+								198
+							]
+						],
+						"settings":
+						{
+							"auto_name": "{",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 196.0
+	},
+	"output.markdown":
+	{
+		"height": 112.0
+	},
+	"output.sftp":
+	{
+		"height": 365.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 148.0,
+	"status_bar_visible": true
+}
